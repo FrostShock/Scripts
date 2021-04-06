@@ -1,0 +1,37 @@
+[Might of Menethil]
+This is a (complete) list of bags in Vanilla WoW.
+
+<b>Vendor:</b>
+- [Small Brown Pouch] (6) - [Brown Leather Satchel] (8) - [Heavy Brown Bag] (10) - [Huge Brown Sack] (12)
+
+<b>Tailoring:</b>
+8 slot:
+- [Woolen Bag]
+
+10 slot:
+- [Green Silk Pack]
+
+14 slot:
+- [Runecloth Bag]
+
+<b>Drops:</b>
+6 slot:
+- [Small Brown Pouch] - [Small Black Pouch] - [Small Red Pouch] - [Small Green Pouch]
+
+8 slot:
+- [White Leather Bag] - [Red Leather Bag] - [Green Leather Bag] - [Blue Leather Bag]
+
+10 slot:
+- [Large Green Sack]
+
+12 slot:
+
+14 slot:
+- [Journeyman's Backpack]
+
+16 slot:
+- [Traveler's Backpack]
+
+<b>Leatherworking:</b>
+- [Small Leather Ammo Pouch] (10) - [Heavy Leather Ammo Pouch] (16)
+- [Light Leather Quiver] (10) - [Heavy Quiver] (16)
