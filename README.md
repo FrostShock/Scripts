@@ -1,2 +1,2 @@
 # Scripts
-Various useful scripts
+Various useful scripts related to WoW
