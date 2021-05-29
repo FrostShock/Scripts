@@ -1,3 +1,5 @@
+
+
 This program will take the CharactersViewer.lua file and it will generate a HTML with all the bag and bank inventry items of your characters.
 You need to install awk and sed, use GnuWin32 tools
 
@@ -7,3 +9,5 @@ Convert the icons to PNG using BLPNG - https://www.wowinterface.com/downloads/in
 This script requires the file "items.lua" (27 MB) from the ZeroDB addon
    https://github.com/minexew/zeroDB
    https://github.com/minexew/zeroDB/blob/master/AddOns/zeroDB/db/items.lua
+
+
