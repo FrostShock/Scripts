@@ -2,7 +2,11 @@ rem – Create a copy of the WotLK WoW game folder using Symbolic links
 mkdir Data
 mkdir Data\enUS
 
-mklink /J Data ..\WotLK\Data
+rem cd Interface
+rem mklink /J AddOns-ZIP ..\..\WotLK\Interface\AddOns-ZIP
+rem mklink /J AddOns-Packs ..\..\WotLK\Interface\AddOns-Packs
+rem 
+rem exit 
 
 mklink /H BackgroundDownloader.exe ..\WotLK\BackgroundDownloader.exe
 mklink /H Battle.net.dll ..\WotLK\Battle.net.dll
